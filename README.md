@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello!
+### Welcome to my GitHub profile! 👋
 
-<!--
-**Airumian/Airumian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alexander (Alex), and I am a passionate developer with a focus on backend development in Python.
 
-Here are some ideas to get you started:
+My goal is to create solutions that enhance our lives and make them more exciting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests:
+
+🐍 Backend development in Python
+
+🤖 Artificial intelligence and machine learning
+
+📱 Mobile app development
+
+📊 Data processing and analytics
+
+Thank you for visiting my GitHub profile! Enjoy exploring my projects, and I hope you find something interesting for yourself. Good luck with your own programming adventures! 🚀
