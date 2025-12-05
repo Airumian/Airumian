@@ -1,26 +1,29 @@
-# 👋 Hello, and Welcome to My GitHub Profile
+# 👋 Hey, I'm Alex
 
-I'm **Alexander (Alex)**, a passionate backend developer with a strong focus on Python. My mission is to create solutions that make life better, more exciting, and efficient.
+> Backend developer focused on Python. I build reliable APIs and services, and I like when tech makes life tangibly better.
 
 ---
 
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-Prod_ready-2496ED?logo=docker&logoColor=fff)](https://docker.com/)
+
 ## 🚀 About Me
 
-I specialize in **backend development** and have a deep interest in **AI, machine learning**, and **mobile app development**. I enjoy working with modern technologies to build scalable, efficient systems that solve real-world problems.
+I specialize in **backend development** and have a deep interest in **AI, machine learning**, and **mobile app development**.
 
-Thank you for visiting my profile! Feel free to explore my projects, and I hope you find something that inspires you. Happy coding! 🚀
+I enjoy working with modern technologies to build scalable, efficient systems that solve real-world problems.
+
+Thank you for visiting my profile! Feel free to explore my projects, and I hope you find something that inspires you.
+
+Happy coding! 🚀
 
 ---
 
 ## 🔥 Interests
 
 - 🐍 **Backend development** in **Python**
-
 - 🤖 **Artificial Intelligence** and **Machine Learning**
-
-- 📱 **Mobile App Development** with **Flutter** and **Dart**  
-  *(Building beautiful cross-platform mobile apps using Dart and Flutter)*
-
+- 📱 **Mobile App Development**
 - 🚀 **Cloud Technologies** and **DevOps**
-
-- 🧑‍💻 **Web Development** with **FastAPI** and **Django**
+- 🧑‍💻 **Web Development** with **FastAPI**
